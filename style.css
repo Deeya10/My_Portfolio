@@ -12,7 +12,7 @@ body {
   background-color: var(--bg-color);
   color: var(--text-color);
   margin: 0;
-  font-family: 'Playfair Display', monospace;
+  font-family: "Nunito", sans-serif;
   color: #13c7d4;
   overflow-x: hidden;
   height: 100%;
